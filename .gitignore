@@ -36,3 +36,4 @@ desktop.ini
 *.pt
 *.pth
 *.png
+!images/*.png
